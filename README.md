@@ -116,4 +116,4 @@ Run all cells from top to bottom. Keep `Housing.csv` in the same folder as the n
 ## 👤 Author
 
 **Arun D**
-🔗 [*Add your LinkedIn / Portfolio link here*](https://linkedin.com/in/arun-durai-d162005/)
+🔗 [LinkedIN](https://linkedin.com/in/arun-durai-d162005/)
